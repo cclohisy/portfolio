@@ -63,10 +63,10 @@ const ProjectCard = () => (
             <div className="col s4">
                 <div className="card">
                     <div className="card-image">
-                        <img src="../images/BFF.png" alt="projec pic" width="200px" height= "300px"/>
+                        <img src="../images/bff.png" alt="projec pic" width="200px" height= "300px"/>
                     </div>
                     <div className="card-content">
-                        <p>Friend Finder: App using to find your next BFF./</p>
+                        <p>Friend Finder: App to find your next BFF./</p>
                     </div>
                     <div className="card-action">
                         <a href="https://bff-finderr.herokuapp.com/" target="#">Visit Site</a>
