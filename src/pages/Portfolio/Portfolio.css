@@ -1,0 +1,28 @@
+/* body{
+    background-image: url(".public/images/upfeathers.png")
+  }xs */
+  
+  .card{
+    background-color: rgba(228, 223, 217, 0.932);
+    /* border-color: #ffc400  ; */
+    border-style: solid;
+    border-width: 8px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px
+   
+  }
+
+  .card-content {
+   
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #ff8a80
+   
+  }
+
+
+  .card-action{
+    font-size: 20px;
+    font-weight: bold
+   
+  }

@@ -1,0 +1,38 @@
+body{
+  background-image: url("../../images/upfeathers.png");
+  text-align: center;
+  font-family: 'Carter One', cursive;
+  font-size: 80px;
+  color: #ff5252 
+
+}
+
+.card-content{
+  text-align: wrap;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px
+
+}
+
+img{
+  border-radius: 10px;
+  /* border-style: solid;
+  border-color: #ff5252  */
+}
+
+.card {
+  background-color: rgba(228, 223, 217, 0.932);
+  border-color: #ff5252;
+  border-style: double;
+  border-width: 10px;
+  color: #ff5252
+
+
+}
+
+.card-title{
+  font-family: 'Carter One', cursive;
+  font-size: 50px;
+  color: #ff5252 
+
+}
