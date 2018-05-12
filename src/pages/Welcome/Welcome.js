@@ -7,8 +7,8 @@ import ContactLinks from "../../components/ContactLink"
 const Welcome = () => (
     <div className ="container">
         <div className ="row">
-            <p> Hi I'm Cecilia Clohisy... </p> 
-            <p>here to help with you web presence needs.</p>
+            <h6> Hi I'm Cecilia Clohisy. </h6> 
+            <h4>Welcome to my portfolio!</h4>
             <Link to="/about" className= "btn-floating btn-large pulse waves-effect waves-light red">
             <i className = "material-icons">details</i>
             </Link>
