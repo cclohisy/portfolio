@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Tipsy Twin Cities",
+        "webLink": "https://tipsy-twin-cities.herokuapp.com/",
+        "description": "Tipsy Twin Cities: A full stack app using sequelize, node.js, handlebars, and RESTful APIs. Find the best Happy Hour in Minneapolis",
+        "src": "../images/ttc.png"
+    },
+    {
+        "id": 7,
+        "title": "Plant Tracker",
+        "webLink": "https://plant-tracker-app.herokuapp.com/",
+        "description": "Tipsy Twin Cities: A full stack app using sequelize, node.js, handlebars, and RESTful APIs. Find the best Happy Hour in Minneapolis",
+        "src": "../images/plant.png"
+
+    },
+    {
+        "id": 2,
+        "title": "Burger Binge",
+        "webLink": "https://burger-binge.herokuapp.com/",
+        "description": "Burger Binge: Full stack app using mySQL, node.js, bootstrap, and handlebars. Devour Burgers and see what happens!",
+        "src": "../images/burgerBinge.png"
+
+    },
+    {
+        "id": 3,
+        "title": "New Time",
+        "webLink": "https://newstimesbbc.herokuapp.com/",
+        "description": "News Time: Full stack app using mongoose,node.js, bootstrap, and handlebars. Scrape BBC News and catch up on the latest!",
+        "src": "../images/newsTime.png"
+
+    },
+    {
+        "id": 4,
+        "title": "GIF of Thrones",
+        "webLink": "https://cclohisy.github.io/gotGifGenerator/",
+        "description": "GIF of Thrones: Front end app using bootsrap, ajax, and jQuery to search and generate Game of Thrones themed gifs.",
+        "src": "../images/got.png"
+
+    },
+    {
+        "id": 5,
+        "title": "BFF finder",
+        "webLink": "https://bff-finderr.herokuapp.com/",
+        "description": "Friend Finder: App to find your next BFF.",
+        "src": "../images/bff.png"
+
+    },
+    {
+        "id": 6,
+        "title": "Trivia",
+        "webLink": "https://cclohisy.github.io/TriviaGame-/index.html",
+        "description": "Parks and Rec Trivia: Front end app using jQuery and bootstrap.  Test your knowledge of Leslie Knope and Pawnee!",
+        "src": "../images/trivia.png"
+
+    }
+]
