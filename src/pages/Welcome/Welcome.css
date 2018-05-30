@@ -1,9 +1,18 @@
 body{
     background-image: url("../../images/upfeathers.png");
-    text-align: center;
     font-family: 'Carter One', cursive;
-    font-size: 80px;
+    font-size: 3em;
     color: #ff5252 
+
+}
+
+#name{
+    font-size: 2.5em
+}
+
+#welcomeInfo{
+    font-family: 'Open Sans', sans-serif;
+    font-size: .7em
 
 }
 

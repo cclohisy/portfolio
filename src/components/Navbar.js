@@ -25,6 +25,12 @@ const Navbar = props => (
             </Link>
 
           </li>
+          <li>
+            <Link to="/contact">
+              Contact
+            </Link>
+          </li>
+
 
         </ul>
       </div>
@@ -32,18 +38,26 @@ const Navbar = props => (
 
     <ul className="sidenav" id="mobileMenu">
       <li>
-        <Link to="/portfolio">
-          Portfolio
-            </Link>
+        <Link className="brand-logo center" to="/">
+          Cecilia Clohisy
+       </Link>
       </li>
       <li>
         <Link to="/about">
           About
             </Link></li>
-      {/* <li><a href="collapsible.html">contact link</a></li> */}
-      <li><Link className="brand-logo center" to="/">
-          Cecilia Clohisy
-       </Link></li>
+      <li>
+        <Link to="/portfolio">
+          Portfolio
+            </Link>
+      </li>
+
+      <li>
+        <Link to="/contact">
+          Contact
+        </Link>
+      </li>
+
     </ul>
   </div>
 );

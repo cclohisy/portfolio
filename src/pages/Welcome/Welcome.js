@@ -5,19 +5,25 @@ import ContactLinks from "../../components/ContactLink"
 
 
 const Welcome = () => (
-    <div className ="container">
-        <div className ="row">
-            <h6> Hi I'm Cecilia Clohisy. </h6> 
-            <h4>Welcome to my portfolio!</h4>
-            <Link to="/about" className= "btn-floating btn-large pulse waves-effect waves-light red">
-            <i className = "material-icons">details</i>
-            </Link>
-        </div>
-        <div className="row">
-        
-        {/* <ContactLinks /> */}
+    // <div className="valign-wrapper">
 
-        </div>
+    <div className="container valign-wrapper">
+
+            <div className="row">
+                <p id="name" > Cecilia Clohisy</p>
+                <p>Full-Stack Web Developer </p>
+                <p id="welcomeInfo">A hardworking and detail oriented programmer who spent the last five years in the financial services industry. 
+                Skills in JavaScript, React.js, Node.js, MySql, and MongoDB. </p>
+                <Link to="/about" className="btn-floating btn-large pulse waves-effect waves-light red">
+                    <i className="material-icons">details</i>
+                </Link>
+            </div>
+            {/* <div className="row"> */}
+
+                {/* <ContactLinks /> */}
+
+            {/* </div> */}
+        {/* </div> */}
     </div>
 
 )
