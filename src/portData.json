@@ -4,14 +4,16 @@
         "title": "Tipsy Twin Cities",
         "webLink": "https://tipsy-twin-cities.herokuapp.com/",
         "description": "Tipsy Twin Cities: A full stack app using sequelize, Node.js, handlebars, and RESTful APIs. Find the best Happy Hour in Minneapolis!",
-        "src": "../images/ttc.png"
+        "src": "../images/ttc.png",
+        "code": "https://github.com/casmith205/Tipsy-Twin-Cities"
     },
     {
         "id": 7,
         "title": "Plant Tracker",
         "webLink": "https://plant-tracker-app.herokuapp.com/",
         "description": "Plant Tracker: A full-stack app using React.js, MySQL, and JavaScript to effectively track a user's indoor and outdoor plants.",
-        "src": "../images/plant.png"
+        "src": "../images/plant.png",
+        "code": "https://github.com/casmith205/Plant-Tracker"
 
     },
     {
@@ -19,7 +21,9 @@
         "title": "News Time",
         "webLink": "https://newstimesbbc.herokuapp.com/",
         "description": "News Time: Full stack app using JavaScript, MongoDB, Node.js. Scrape BBC News and catch up on the latest!",
-        "src": "../images/newsTime.png"
+        "src": "../images/newsTime.png",
+        "code": "https://github.com/cclohisy/newsTime"
+        
 
     },
     {
@@ -27,7 +31,8 @@
         "title": "Burger Binge",
         "webLink": "https://burger-binge.herokuapp.com/",
         "description": "Burger Binge: Full stack app using JavaScrit, MySql, Node.js, and Handlebars. Devour Burgers and see what happens!",
-        "src": "../images/burgerBinge.png"
+        "src": "../images/burgerBinge.png",
+        "code": "https://github.com/cclohisy/burger"
 
     },
     {
@@ -35,7 +40,8 @@
         "title": "BFF finder",
         "webLink": "https://bff-finderr.herokuapp.com/",
         "description": "Friend Finder: Full stack app using Javscript, Node.js, and express. Take the Survey to find your next BFF!",
-        "src": "../images/bff.png"
+        "src": "../images/bff.png",
+        "code": "https://github.com/cclohisy/friendFinder"
 
     },
     
@@ -44,7 +50,8 @@
         "title": "GIF of Thrones",
         "webLink": "https://cclohisy.github.io/gotGifGenerator/",
         "description": "GIF of Thrones: Front end app using JavaScrip with ajax and jQuery. Search and generate Game of Thrones themed gifs.",
-        "src": "../images/got.png"
+        "src": "../images/got.png",
+        "code": "https://github.com/cclohisy/gotGifGenerator"
 
     },
     
@@ -53,7 +60,8 @@
         "title": "Trivia",
         "webLink": "https://cclohisy.github.io/TriviaGame-/index.html",
         "description": "Parks and Rec Trivia: Front end app using JavaScript with jQuery and bootstrap.  Test your knowledge of Leslie Knope and Pawnee!",
-        "src": "../images/trivia.png"
+        "src": "../images/trivia.png",
+        "code": "https://github.com/cclohisy/TriviaGame-s"
 
     }
 ]

@@ -12,6 +12,8 @@ const ProjectCard = props => (
                     </div>
                     <div className="card-action">
                         <a href={props.link} target="#">Visit Site</a>
+                        <a href={props.code} target="#">Visit Code</a>
+
                     </div>
                 </div>
             </div>

@@ -20,6 +20,7 @@ const Portfolio = () => (
             link = {card.webLink}
             description = {card.description}
             src = {card.src}
+            code = {card.code}
             />
 
         ))}
